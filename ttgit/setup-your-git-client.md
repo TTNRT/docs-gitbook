@@ -35,6 +35,8 @@ Make sure you have the Git source control app installed before doing this.
 
 Click the 3-dots button next to the git URL copy button. You will see this once done:
 
+<figure><img src="../.gitbook/assets/archive_popup.png" alt=""><figcaption></figcaption></figure>
+
 Click on the archive format you want to download. For example, we will use the ZIP format option. Click that and wait for your download to start. Once downloaded, open the folder where it is located. You should unzip the file to extract all the items inside the archive. You can use whatever tool you like for this. For this, we will use 7zip. You can extract them to any location that suits you.
 
 ### Setup the authorization

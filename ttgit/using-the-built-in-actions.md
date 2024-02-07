@@ -12,8 +12,6 @@ This guide will walk you through setting up your own Forgejo Actions Runner to u
 
 ### Obtaining a token
 
-
-
 {% hint style="info" %}
 Make sure to enable actions. Repository Actions are disabled by default and will require you to enable them in the "Advanced Settings" section of the settings page.
 {% endhint %}
@@ -27,6 +25,8 @@ You can add Runners to your account, organization, or repository. Choosing where
 3. Click on Runners.
 4. Click on Create new Runner.
 5. Copy the registration token.
+
+<figure><img src="../.gitbook/assets/creating-the-runner.png" alt=""><figcaption></figcaption></figure>
 
 ### Installing Forgejo Runner
 
@@ -79,6 +79,8 @@ To verify it is actually available for the targeted repository, go to /YOURUSER/
 * available to all repositories within an organization or a user
 * available to all repositories, with the Global type
 
+<figure><img src="../.gitbook/assets/list-of-runners.png" alt=""><figcaption></figcaption></figure>
+
 ### Testing workflows
 
 To test your CI runner setup, you can use the following demo workflow:
@@ -93,6 +95,8 @@ jobs:
 ```
 
 The runner seeks action recipes from `.forgejo/workflows`, so make sure your file is in the required path.
+
+<figure><img src="../.gitbook/assets/demo-workflow.png" alt=""><figcaption></figcaption></figure>
 
 ### Sources
 
