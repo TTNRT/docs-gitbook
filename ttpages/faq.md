@@ -1,6 +1,8 @@
-# FAQ
+---
+description: Here is some general questions on TTPages.
+---
 
-Here is some general questions on TTPages.
+# FAQ
 
 ### Can I use a custom domain?
 
