@@ -20,13 +20,13 @@ The following sections will show on how to do so.
 Go to your repository. Look for a icon next the triple dots button. It will have a Copy button along with a link next to it. The URL would look like this:
 
 ```
-https://gitea.ttnrtsite.me/YOURUSERNAME/YOURREPO.git
+https://git.ttnrtsite.me/YOURUSERNAME/YOURREPO.git
 ```
 
 Copy the link using the button so that it is in your clipboard. Then open your preferred terminal app, and type in this:
 
 ```
-git clone https://gitea.ttnrtsite.me/YOURUSERNAME/YOURREPO.git
+git clone https://git.ttnrtsite.me/YOURUSERNAME/YOURREPO.git
 ```
 
 Make sure you have the Git source control app installed before doing this.
