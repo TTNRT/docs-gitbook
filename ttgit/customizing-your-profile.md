@@ -41,4 +41,4 @@ You can always change your file at any time you wish.
 
 ### Sources
 
-* \[Profile readme]\([https://docs.gitea.com/usage/profile-readme](https://docs.gitea.com/usage/profile-readme))
+* [Profile readme](https://docs.gitea.com/usage/profile-readme)
