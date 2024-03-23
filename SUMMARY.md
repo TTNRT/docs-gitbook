@@ -8,6 +8,7 @@
 * [Using the built-in Actions](ttgit/using-the-built-in-actions.md)
 * [Using the CI](ttgit/using-the-ci.md)
 * [Customizing your profile](ttgit/customizing-your-profile.md)
+* [Bring a local folder to remote repo](ttgit/bring-a-local-folder-to-remote-repo.md)
 
 ## 📓 TTPages
 
