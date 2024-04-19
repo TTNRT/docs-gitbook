@@ -87,6 +87,12 @@ If you end up with errors like "Updates were rejected because the remote contain
 git push origin -u -f YOUR_BRANCH_NAME
 ```
 
+If you also want to add a branch without the need of using the push command while committing your changes, you can use this command below, which will allow you to checkout your changes without the need of using the `-u` part of the git command. Make sure to change the branch name to the one you put in for your repo after creating it.
+
+```bash
+git checkout -b main
+```
+
 ### Sources
 
 * [Rejected updates](https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-its-remot)
