@@ -14,3 +14,8 @@
 
 * [Intro](ttpages/intro.md)
 * [FAQ](ttpages/faq.md)
+
+## 👥 ID system
+
+* [Introduction](id-system/introduction.md)
+* [FAQ and support](id-system/faq-and-support.md)
