@@ -29,3 +29,11 @@ We know that people like to ask us questions about our new services. Here are so
 > Q: Will all services use this system as part of the safety plan in place?
 >
 > A: Not all services will use the Open ID Connect system, so we can't tell if all services, including myTT, will use this method of sign-in.
+
+> Q: If I'm going to add a account with this system on TTGit, is it okay and safe for me to add a password along with a username? With the Git client as well?
+>
+> A: Yes you should! Git clients don't support the use of OAuth or OpenID connect with external providers, so you should add a username and password when linking. This is important if you are using Git-scm for pushing, pulling or committing changes to your repo. You should also add an email after creating if needed.
+
+> Q: If I get my account removed or delete it, will TTGit or any other service that relys on TTNRT ID remove it from their database?
+>
+> A: We haven't looked into that as of now. However, your account is linked to that account you created on the database and what service your using with it.
