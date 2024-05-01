@@ -14,11 +14,11 @@ We should have a repo created for TTPages. For this, we need to create the repo 
 
 `[USERNAME].ttnrtsite.io`
 
+Alternatively, you can name your repo anything you want without the domain at the end. This is mostly different for those that want more than one site at a time.
+
 Be sure to replace `[USERNAME]` with your account name. Once that is done, you can create the repo and send it to the database. It is also important to add the `gitea-pages` topic to the repo due to the program requiring it. You should also create a branch named `gitea-pages`, where the static files will go into, as the server will not use any other branch. This makes it easy for when you use a static site generator as a example. Once you have that, you can start adding your static files.
 
 ### Adding static files
-
-
 
 {% hint style="info" %}
 Make sure you use the gitea-pages branch. The server will only interact with this branch. Do not make a pull request, as that might mess something up.
