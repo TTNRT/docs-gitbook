@@ -4,30 +4,30 @@ description: Here is some general questions on TTPages.
 
 # FAQ
 
-### Can I use a custom domain?
+> Q: Can I use a custom domain?
+>
+> A: No. At this time, the program does not have any support for this feature, but may  come in a future release.
 
-No. At this time, the program is have does not support this feature, but may come in a future release.
+> Q: How can I check for outages?
+>
+> A: You can visit our status site. Visit it here: [status.ttnrtsite.me](https://status.ttnrtsite.me)
 
-### How can I check for outages?
+> Q: Is this service free to use.
+>
+> A: Yes. In fact the service is open-source and is possible to use on your own Forgejo instance. See more on the sources section on this site
 
-You can visit our status site. Visit it here: [status.ttnrtsite.me](https://status.ttnrtsite.me)
+> Q: Can I use a different name for TTPages?
+>
+> A: Yes you can! Be sure to add a slash at the end when finding your URL to your website.
 
-### Is this service free to use?
+> Q: Is it possible to use a static site generator?
+>
+> A: We are still testing that at the moment. However, this feature mostly relies the CI interface. We do have some examples on doing so. Read more on our documentation
 
-Yes. In fact the service is open-source and is possible to use on your own Forgejo instance. See more on the sources section on this site
+> Q: Where can I get help on this?
+>
+> A: [Community/issues](https://git.ttnrtsite.me/TTNRT/Community/issues)
 
-### Can I use a different name for TTPages?
-
-Not sure. It might be best to just use the standard way with your username and the domain set for it.
-
-### Is it possible to use a static site generator?
-
-We are still testing that at the moment. However, this feature mostly required the CI interface. We do have some examples on doing so. Read me on our organization page
-
-### Where can I get help on this?
-
-[Community/issues](https://gitea.ttnrtsite.me/TTNRT/Community/issues)
-
-### Will there be a feature for when you want to enable or disable TTPages?
-
-We are planning on doing that feature. For now, you will have to do it manually.
+> Q: Will there be a feature for when you want to enable or disable TTPages?
+>
+> A: We are planning on doing that feature. For now, you will have to do it manually.
