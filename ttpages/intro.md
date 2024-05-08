@@ -1,8 +1,6 @@
 # Intro
 
 {% hint style="warning" %}
-## Notice!
-
 We made changes to use Meli as our pages server! This documentation section is decrypted and will now use the Meli section for setting up TTPages! Other changes may occur later on!
 {% endhint %}
 
