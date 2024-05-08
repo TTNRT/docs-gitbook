@@ -1,5 +1,11 @@
 # Intro
 
+{% hint style="warning" %}
+## Notice!
+
+We made changes to use Meli as our pages server! This documentation section is decrypted and will now use the Meli section for setting up TTPages! Other changes may occur later on!
+{% endhint %}
+
 On this page, we will cover on how our TTPages service works for TTGit, including a way to use it with your repo you may have. You should keep note on the following as well:
 
 * This service is somewhat different from other providers
