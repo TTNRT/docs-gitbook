@@ -6,7 +6,7 @@ description: Here is some general questions on TTPages.
 
 > Q: Can I use a custom domain?
 >
-> A: No. At this time, the program does not have any support for this feature, but may  come in a future release.
+> A: Yes you can! All you have to do us add a file named `CNAME` with your domain name.
 
 > Q: How can I check for outages?
 >
