@@ -19,3 +19,8 @@
 
 * [Introduction](id-system/introduction.md)
 * [FAQ and support](id-system/faq-and-support.md)
+
+## 🤖 Assist AI
+
+* [Home](assist-ai/home.md)
+* [FAQ](assist-ai/faq.md)
