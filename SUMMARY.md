@@ -10,11 +10,6 @@
 * [Customizing your profile](ttgit/customizing-your-profile.md)
 * [Bring a local folder to remote repo](ttgit/bring-a-local-folder-to-remote-repo.md)
 
-## 📓 TTPages
-
-* [FAQ](ttpages/faq.md)
-* [Quick start](ttpages/quick-start.md)
-
 ## 👥 ID system
 
 * [Introduction](id-system/introduction.md)
@@ -24,3 +19,7 @@
 
 * [Home](assist-ai/home.md)
 * [FAQ](assist-ai/faq.md)
+
+## ⌨️ Meli
+
+* [Quick start](meli/quick-start.md)
