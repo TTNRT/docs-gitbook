@@ -23,3 +23,4 @@
 ## ⌨️ Meli
 
 * [Quick start](meli/quick-start.md)
+* [FAQ](meli/faq.md)
