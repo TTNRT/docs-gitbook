@@ -6,11 +6,11 @@ description: >-
 
 # Using the built-in Actions
 
-The use Gitea Actions (now called TTGit Actions) is a way to automate workflows much easier, rather than pushing files yourself to your repository. This service is **free without any charges**, which means that we will not pay or have usage on your account when using this services.
+The use Gitea Actions (now called TTGit Actions) is a way to automate workflows much easier, rather than pushing files yourself to your repository. This service is **free without any charges**, which means that we will not pay or have usage on your account when using this service.
 
 ### Preparing your runner
 
-For the use of TTGit Actions, you will need a runner, along with Docker installed on your computer. You should already have access to the actions tab in either your account page, or inside your repository, either whatever one that suits you the best. Go to your account page, click on the "Actions" tab, and click on the "Runner" option.
+For the use of TTGit Actions, you will need a runner, along with Docker installed on your computer. You should already have access to the actions tab in either your account page, or inside your repository, whatever one that suits you the best. Go to your account page, click on the "Actions" tab, and click on the "Runner" option.
 
 <figure><img src="../.gitbook/assets/Actions_runner1.PNG" alt=""><figcaption><p>Figure 1: Account page</p></figcaption></figure>
 
@@ -34,8 +34,10 @@ It is recommended to download the latest version of the runner executable. Downl
 Since the executable is marked as non-executable, you should use the `chmod` command (if using linux) to allow it to run correctly! The command will look like this:
 
 ```bash
-chmod +x act_runner-0.2.10-linux-amd64
+chmod +x act_runner-x.x.x-linux-amd64
 ```
 {% endhint %}
 
 Once you downloaded your file and allowed it to execute, you can now register your runner!
+
+### Registering your runner

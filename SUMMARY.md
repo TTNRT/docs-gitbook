@@ -9,7 +9,6 @@
 * [Using the CI](ttgit/using-the-ci.md)
 * [Customizing your profile](ttgit/customizing-your-profile.md)
 * [Bring a local folder to remote repo](ttgit/bring-a-local-folder-to-remote-repo.md)
-* [Using SSH](ttgit/using-ssh.md)
 
 ## 👥 ID system
 

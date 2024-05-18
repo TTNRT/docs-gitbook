@@ -44,8 +44,6 @@ Once you have your data inside the commit, you are ready to add your repository 
 Copy that URL and keep note of it. Once you have it, go back to your terminal app and type this command.
 
 {% hint style="warning" %}
-Warning!
-
 Make sure to have your username and email for authorizing to push your commit. If you didn't do it yet, follow our "Setup your Git client" guide before proceeding.
 {% endhint %}
 
